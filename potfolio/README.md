@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+Birinci server run elemek ucun zehmet olmasa ashagida qeyd olunan emri zhs/bash terminalda calishdirin
+json-server --watch server.json --port 3002
+
+PORTUN 3002 olmasi vacibdir cunki axios 3002 ye set olunub
+
+
+sonra ise programin ozunu calishdirmaq ucun ashagidaki emri terminalda calihsdirin
+npm start
