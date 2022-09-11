@@ -10,8 +10,6 @@ const filterInvoicesAPI = async () => axios.get('/invoices?id=1&id=2');
 
 
 
-//https://github.com/itsmaheshkariya/react-redux-saga-crud-app
-
 // export const getUserByIdAPI = async (id) => axios.get(`/users/${id}`);
 
 // export const createUserAPI = async (user) => axios.post(`/users`, user);
